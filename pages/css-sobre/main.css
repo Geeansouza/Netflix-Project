@@ -7,26 +7,17 @@ main {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
 }
-
-main h2 {
-    font-size: 2rem;
-    font-weight: 400;
-    color: red;
-    transform: rotate(-90deg);
-}
 .container {
     display: flex;
     align-items: center;
     justify-content: flex-start;
     width: 600px;
     
-}
-.container_H2{
-    position: relative;
+
 
 }
 main h1 {
-    font-size: 4.5rem;
+    font-size: 3.5rem;
 }
 
 main p {

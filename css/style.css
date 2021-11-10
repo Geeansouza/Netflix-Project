@@ -5,7 +5,6 @@ body {
     background-size: cover;
     background-position: right top;
     background-color: #0008;
-    background-blend-mode: darken;
     display: flex;
     flex-direction: column;
 }
